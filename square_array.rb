@@ -3,4 +3,5 @@ def square_array(array)
   pancakes.each do |menu|
     menu ** 2
     menu
+  end
 end
